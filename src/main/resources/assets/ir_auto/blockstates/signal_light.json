@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,powered=false": { "model": "ir_auto:signal_light_green" },
+    "facing=south,powered=false": { "model": "ir_auto:signal_light_green", "y": 180 },
+    "facing=west,powered=false":  { "model": "ir_auto:signal_light_green", "y": 270 },
+    "facing=east,powered=false":  { "model": "ir_auto:signal_light_green", "y": 90 },
+    "facing=north,powered=true": { "model": "ir_auto:signal_light_red" },
+    "facing=south,powered=true": { "model": "ir_auto:signal_light_red", "y": 180 },
+    "facing=west,powered=true":  { "model": "ir_auto:signal_light_red", "y": 270 },
+    "facing=east,powered=true":  { "model": "ir_auto:signal_light_red", "y": 90 }
+  }
+}

@@ -1,0 +1,9 @@
+item.ir_auto.railway_map.name=Railway Map
+item.ir_auto.train_control_paper.name=Train Control Paper
+item.ir_auto.train_manager.name=Train Manager
+tile.ir_auto.train_display.name=Train Display
+item.ir_auto.train_display.name=Train Display
+item.ir_auto.train_warning_device.name=Train Warning Device
+item.ir_auto.signal_light.name=Signal Light
+tile.ir_auto.signal_light.name=Signal Light
+itemGroup.ir_auto=IR Auto

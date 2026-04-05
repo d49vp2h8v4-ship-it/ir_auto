@@ -1,0 +1,67 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# vscode
+.vscode
+
+# artifacts / archives
+*.zip
+*.7z
+*.rar
+
+# build outputs
+/build/
+/out/
+/bin/
+
+# local runtime
+/run/
+/logs/
+
+# crash dumps
+hs_err_pid*.log
+replay_pid*.log
+
+# Gradle wrapper jar should be committed
+!gradle/wrapper/gradle-wrapper.jar
+
+# local dependency jars (download separately, don't commit)
+/modir/*.jar
+
+# local exported mod jars (exportReleaseJar task copies here)
+/ir_auto_alpha_*.jar
+
+# large local baggage (not used by the main ForgeMDK project)
+/irbag/
+
+# local scratch assets/tools
+/tx/
+/runClient_output.txt
+/trae-sandbox.cmd
+
+# logs / crash dumps
+*.log
+*.log.gz
+
+# compiled outputs
+*.class

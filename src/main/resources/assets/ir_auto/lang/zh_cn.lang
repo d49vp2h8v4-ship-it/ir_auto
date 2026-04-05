@@ -1,0 +1,15 @@
+item.ir_auto.railway_map.name=铁路地图
+item.ir_auto.train_control_paper.name=列车控制纸
+item.ir_auto.train_manager.name=列车管理器
+tile.ir_auto.train_display.name=列车大屏
+item.ir_auto.train_display.name=列车大屏
+item.ir_auto.train_warning_device.name=列车预警器
+item.ir_auto.train_signal.name=列车信号机
+tile.ir_auto.train_signal.name=\u5217\u8f66\u4fe1\u53f7\u673a
+item.ir_auto.turnout_machine.name=道岔机
+tile.ir_auto.turnout_machine.name=\u9053\u5c94\u673a
+item.ir_auto.station_marker.name=站台标记器
+tile.ir_auto.station_marker.name=\u7ad9\u53f0\u6807\u8bb0\u5668
+item.ir_auto.signal_light.name=\u4fe1\u53f7\u706f
+tile.ir_auto.signal_light.name=\u4fe1\u53f7\u706f
+itemGroup.ir_auto=IR自动化

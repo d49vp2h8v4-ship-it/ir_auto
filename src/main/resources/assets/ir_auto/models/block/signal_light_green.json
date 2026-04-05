@@ -1,0 +1,7 @@
+{
+  "parent": "ir_auto:block/signal_light_base",
+  "textures": {
+    "0": "ir_auto:blocks/signal_light_green",
+    "particle": "ir_auto:blocks/signal_light_green"
+  }
+}
