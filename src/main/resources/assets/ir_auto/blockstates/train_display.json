@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "normal": { "model": "ir_auto:train_display" }
+  }
+}
+

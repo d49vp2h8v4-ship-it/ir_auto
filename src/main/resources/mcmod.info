@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ir_auto",
+  "name": "ir_auto",
+  "description": "IR Auto - Immersive Rail addon mod by chuanshuoi9",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["chuanshuoi9"],
+  "credits": "Created by chuanshuoi9, based on Immersive Railroading",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["immersiverailroading"]
+}
+]
