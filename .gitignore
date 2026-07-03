@@ -10,4 +10,10 @@
 !/LICENSE
 !/README.md
 !/push.bat
+!/.github/
+!/modir/
+/modir/*
+!/modir/TrackAPI-1.2.jar
+!/modir/UniversalModCore-1.12.2-forge-1.2.1.jar
+!/modir/README.md
 !/src/
